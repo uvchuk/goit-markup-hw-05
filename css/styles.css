@@ -475,8 +475,7 @@ ul {
 	fill: var(--accent-color);
 }
 
-/* Projects 
-Filter list */
+/* Projects - Filter list */
 
 .filter-list {
 	display: flex;
